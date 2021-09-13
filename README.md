@@ -1,3 +1,9 @@
+
+ARON KIM - This is my take on this challenge! Below I'll leave the description for the challenge.
+
+
+
+
 ![Innovid](./assets/logo.jpg "Innovid")
 
 # Innovid challenge: Load balancer
