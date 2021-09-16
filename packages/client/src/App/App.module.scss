@@ -1,8 +1,9 @@
 // Container
 .container {
   width: 100%;
-  max-width: 1024px;
-  flex:auto;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-row-gap: 40px;
 }
 
 p {
