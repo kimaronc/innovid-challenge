@@ -1,6 +1,8 @@
 
 ARON KIM - This is my take on this challenge! Below I'll leave the description for the challenge.
-
+Twitch: ainomega
+Discord: GlassesOn#5910
+Contacto: kim.aronc@gmail.com
 
 
 
